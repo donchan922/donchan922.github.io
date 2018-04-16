@@ -2,6 +2,7 @@
 
 # About
 
+
 # Works
 ## 2017
 - <a href="http://www.daipanman.com/entry/2017/06/11/104414">Raspberry Pi星占い</a>
@@ -9,10 +10,11 @@
 - <a href="http://www.daipanman.com/entry/2017/06/24/085904">Raspberry Piと100円の人感センサでつくる防犯スピーカー</a>
 - <a href="http://www.daipanman.com/entry/2017/07/07/071949">Raspberry PiとIFTTTのMaker Webhooksを使った家事カウンター</a>
 - <a href="http://www.daipanman.com/entry/2017/08/02/214429">Amazon Dash Buttonをハックしてつくる阪神タイガースの試合速報通知ボタン</a>
-- <a href="http://www.daipanman.com/entry/2017/08/17/195259">Raspberry Pi＋IRKit＋Homebridgeを使って自宅の家電をSiriで音声操作</a>
-- <a href="http://www.daipanman.com/entry/2017/08/22/113847">IRKit＋IFTTTを使って指定した時間に家電を自動操作してみました</a>
+- <a href="http://www.daipanman.com/entry/2017/08/17/195259">Raspberry Pi＋IRKit＋Homebridgeで自宅の家電をSiriで音声操作</a>
+- <a href="http://www.daipanman.com/entry/2017/08/22/113847">IRKit＋IFTTTを使った家電自動操作</a>
+- <a href="http://www.daipanman.com/entry/2017/09/16/185831">Google Apps Scriptを使った星占いLINE Bot</a>
 
-- <a href=""></a>
+
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
