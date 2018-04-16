@@ -1,4 +1,4 @@
-![daipanman](https://user-images.githubusercontent.com/31620041/38806706-1a522344-41b5-11e8-97c5-3f8aed43008f.png)
+![daipanman](https://user-images.githubusercontent.com/31620041/38806770-59b146dc-41b5-11e8-96e8-8398e15a8237.png)
 
 # About
 
