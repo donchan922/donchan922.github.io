@@ -24,7 +24,6 @@
 - <a href="http://www.daipanman.com/entry/2017/08/22/113847">IRKit＋IFTTTを使った家電自動操作</a>
 - <a href="http://www.daipanman.com/entry/2017/09/16/185831">Google Apps Scriptを使った星占いLINE Bot</a>
 
-
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
