@@ -4,7 +4,7 @@
 技術を磨くのが大好きなエンジニア。
 
 - 好きな技術＆モノ
-  - HTML：★★★☆☆
+  - HTML
   - CSS
   - javascript
   - Linux
