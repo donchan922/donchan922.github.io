@@ -1,6 +1,12 @@
 ![daipanman](https://user-images.githubusercontent.com/31620041/38808508-73024c70-41bb-11e8-8d68-eb099039ade4.png)
 
 # About
+技術を磨くのが大好きなエンジニア。
+
+- よく使う技術
+-- HTML
+-- CSS
+-- javascript
 
 
 # Works
