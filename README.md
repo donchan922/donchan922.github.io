@@ -3,7 +3,7 @@
 # About
 技術を磨くのが大好きなエンジニア。
 
-**好きな技術＆モノ**
+# Skill
 - HTML
 - CSS
 - javascript
