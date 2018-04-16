@@ -3,7 +3,7 @@
 # About
 技術を磨くのが大好きなエンジニア。
 
-## 好きな技術＆モノ
+**好きな技術＆モノ**
 - HTML
 - CSS
 - javascript
@@ -11,7 +11,6 @@
 - Raspberry Pi
 - Amazon Dash Button
 - Google Home
-- test
 
 # Works
 ## 2017
@@ -24,12 +23,10 @@
 - <a href="http://www.daipanman.com/entry/2017/08/22/113847">IRKit＋IFTTTを使った家電自動操作</a>
 - <a href="http://www.daipanman.com/entry/2017/09/16/185831">Google Apps Scriptを使った星占いLINE Bot</a>
 
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
+## 2018
+- <a href="https://qiita.com/donchan922/items/2764f6d53f07d6fd4fa3">ポケモンの種族値を検索するコマンドラインツール</a>
+- <a href="https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja">1-Click Link Copy as Markdown（Google Chrome拡張機能）</a>
+- <a href="https://assistant.google.com/services/a/uid/000000ebf4570c78">ミスタードーナツのカロリー（Googleアシスタントアプリ）</a>
 
 # Contact
 - <a href="https://github.com/donchan922">GitHub</a>
