@@ -3,10 +3,14 @@
 # About
 技術を磨くのが大好きなエンジニア。
 
-- よく使う技術
--- HTML
--- CSS
--- javascript
+- 好きな技術＆モノ
+  - HTML：★★★☆☆
+  - CSS
+  - javascript
+  - Linux
+  - Raspberry Pi
+  - Amazon Dash Button
+  - Google Home
 
 
 # Works
