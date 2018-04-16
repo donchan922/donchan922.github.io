@@ -3,10 +3,20 @@
 # About
 
 # Works
-|ヘッダ１|ヘッダ２|ヘッダ３|
-|---|:---:|---:|
-|左寄せ|中央揃え|右寄せ|
-|LEFTLEFTLEFT|CENTERCENTER|RIGHTRIGHT|
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Work</th>
+  </tr>
+  <tr>
+    <td>2017/08/02</td>
+    <td>Amazon Dash Buttonをハックして阪神タイガースの試合速報通知ボタンをつくりました</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 - <a href="http://www.daipanman.com/entry/2017/08/02/214429">Amazon Dash Buttonをハックして阪神タイガースの試合速報通知ボタンをつくりました</a>
 - <a href=""></a>
