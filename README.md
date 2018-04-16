@@ -3,15 +3,15 @@
 # About
 技術を磨くのが大好きなエンジニア。
 
-- 好きな技術＆モノ
- - HTML
- - CSS
- - javascript
- - Linux
- - Raspberry Pi
- - Amazon Dash Button
- - Google Home
- - test
+## 好きな技術＆モノ
+- HTML
+- CSS
+- javascript
+- Linux
+- Raspberry Pi
+- Amazon Dash Button
+- Google Home
+- test
 
 # Works
 ## 2017
