@@ -3,27 +3,12 @@
 # About
 
 # Works
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Work</th>
-  </tr>
-  <tr>
-    <td>2017/08/02</td>
-    <td>Amazon Dash Buttonをハックして阪神タイガースの試合速報通知ボタンをつくりました</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 **2017**
-- <a href="http://www.daipanman.com/entry/2017/08/02/214429">Amazon Dash Buttonをハックして阪神タイガースの試合速報通知ボタンをつくりました</a>
+- <a href="http://www.daipanman.com/entry/2017/08/02/214429">Amazon Dash Buttonをハックしてつくる阪神タイガースの試合速報通知ボタン</a>
+- <a href="http://www.daipanman.com/entry/2017/06/11/104414">Raspberry Pi星占い</a>
+- <a href="http://www.daipanman.com/entry/2017/06/16/195307">Raspberry PiとスピーカーでつくるNORITZ風お湯はりタイマー</a>
 
-- <a href="http://www.daipanman.com/entry/2017/08/02/214429">Amazon Dash Buttonをハックして阪神タイガースの試合速報通知ボタンをつくりました</a>
-- <a href=""></a>
-- <a href=""></a>
+
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
