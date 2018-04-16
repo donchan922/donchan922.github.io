@@ -1,7 +1,7 @@
 ![daipanman](https://user-images.githubusercontent.com/31620041/38808508-73024c70-41bb-11e8-8d68-eb099039ade4.png)
 
 # About
-技術を磨くのが大好きなエンジニア。仕事ではサーバサイド系、プライベートではフロント＆サーバ＆インフラなんでもやっちゃいます。
+技術を磨くのが大好きなエンジニア。仕事ではサーバサイドが多め。プライベートではフロント＆サーバ＆インフラなんでもやっちゃいます。
 
 # Skill
 - HTML
@@ -15,6 +15,11 @@
 - Google Home
 
 # Works
+## 2016
+- <a href="http://www.daipanman.com/entry/2015/07/05/080000">CSS＆Webフォントで作るおしゃれなシェアボタン</a>
+- <a href="https://store.line.me/stickershop/product/1165441/ja">LINEスタンプ第1弾（わいわいきのこ）</a>
+- <a href="https://store.line.me/stickershop/product/1313708/ja">LINEスタンプ第2弾（わいわいきのこ2）</a>
+
 ## 2017
 - <a href="http://www.daipanman.com/entry/2017/06/11/104414">Raspberry Pi星占い</a>
 - <a href="http://www.daipanman.com/entry/2017/06/16/195307">Raspberry PiとスピーカーでつくるNORITZ風お湯はりタイマー</a>
