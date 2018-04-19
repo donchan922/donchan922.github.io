@@ -3,7 +3,7 @@
 # About
 donchan922。技術を磨くのが大好きなエンジニア。仕事ではサーバサイドが多め。プライベートではフロント＆サーバ＆インフラなんでもやっちゃいます。
 
-# Skill
+# Skills
 - HTML
 - CSS
 - javascript
