@@ -34,6 +34,7 @@ donchan922。技術を磨くのが大好きなエンジニア。仕事ではサ�
 - <a href="https://qiita.com/donchan922/items/2764f6d53f07d6fd4fa3">ポケモンの種族値を検索するコマンドラインツール</a>
 - <a href="https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja">1-Click Link Copy as Markdown（Google Chrome拡張機能）</a>
 - <a href="https://assistant.google.com/services/a/uid/000000ebf4570c78">ミスタードーナツのカロリー（Googleアシスタントアプリ）</a>
+- <a href="https://assistant.google.com/services/a/uid/0000009008fcd065?hl=ja">一言メモ（Googleアシスタントアプリ）</a>
 
 # Certifications
 - 基本情報技術者
