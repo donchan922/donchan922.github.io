@@ -35,6 +35,7 @@
 - <a href="https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja">1-Click Link Copy as Markdown（Google Chrome拡張機能）</a>
 - <a href="https://assistant.google.com/services/a/uid/000000ebf4570c78">ミスタードーナツのカロリー（Googleアシスタントアプリ）</a>
 - <a href="https://assistant.google.com/services/a/uid/0000009008fcd065?hl=ja">一言メモ（Googleアシスタントアプリ）</a>
+- <a href="https://assistant.google.com/services/a/uid/0000005336ad7829?hl=ja">次の祝日（Googleアシスタントアプリ）</a>
 
 # Certifications
 - 基本情報技術者
