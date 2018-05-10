@@ -1,7 +1,7 @@
 ![daipanman](https://user-images.githubusercontent.com/31620041/38808508-73024c70-41bb-11e8-8d68-eb099039ade4.png)
 
 # About
-だいぱんまんです。技術を磨くのが大好きなITエンジニア。ものづくりが趣味です。Raspberry Pi, Google Home, 自宅のスマートホーム化に興味があります。
+だいぱんまんです。技術を磨くのが大好きなITエンジニア。ものづくりが趣味です。Raspberry Pi, スマートスピーカー, 自宅のスマートホーム化に興味があります。
 
 # Skills
 - HTML
@@ -13,6 +13,7 @@
 - Raspberry Pi
 - Amazon Dash Button
 - Google Home
+- Amazon Alexa
 
 # Works
 ## 2016
