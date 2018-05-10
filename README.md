@@ -36,6 +36,7 @@
 - <a href="https://assistant.google.com/services/a/uid/000000ebf4570c78">ミスタードーナツのカロリー（Googleアシスタントアプリ）</a>
 - <a href="https://assistant.google.com/services/a/uid/0000009008fcd065?hl=ja">一言メモ（Googleアシスタントアプリ）</a>
 - <a href="https://assistant.google.com/services/a/uid/0000005336ad7829?hl=ja">次の祝日（Googleアシスタントアプリ）</a>
+- <a href="https://www.amazon.co.jp/donchan922-NextHoliday/dp/B07CW64JZZ/ref=sr_1_2?s=digital-skills&ie=UTF8&qid=1525948530&sr=1-2&keywords=%E6%AC%A1%E3%81%AE%E7%A5%9D%E6%97%A5">次の祝日（Alexaスキル）</a>
 
 # Certifications
 - 基本情報技術者
