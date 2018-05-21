@@ -11,7 +11,6 @@
 - Java
 - Oracle
 - Raspberry Pi
-- Amazon Dash Button
 - Google Home
 - Amazon Alexa
 
