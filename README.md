@@ -1,7 +1,7 @@
 ![daipanman](https://user-images.githubusercontent.com/31620041/38808508-73024c70-41bb-11e8-8d68-eb099039ade4.png)
 
 # About
-だいぱんまんです。技術を磨くのが大好きなITエンジニア。ものづくりが趣味です。Raspberry Pi, スマートスピーカー, 自宅のスマートホーム化に興味があります。
+だいぱんまんです。技術を磨くのが大好きなITエンジニア。ものづくりが趣味です。
 
 # Skills
 - HTML
@@ -47,4 +47,5 @@
 - <a href="https://github.com/donchan922">GitHub</a>
 - <a href="https://twitter.com/donchan922">Twitter</a>
 - <a href="https://qiita.com/donchan922">Qiita</a>
-- <a href="http://www.daipanman.com/">Blog</a>
+- Blog
+  - <a href="https://reasonable-code.com/">Reasonable Code</a>
