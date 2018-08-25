@@ -44,9 +44,9 @@
 - LPIC-1 (LinuC-1)
 
 # Contact
-- <a href="https://github.com/donchan922">GitHub</a>
 - <a href="https://twitter.com/donchan922">Twitter</a>
-- <a href="https://qiita.com/donchan922">Qiita</a>
 - Blog
   - <a href="http://www.daipanman.com/">技術を磨くだいぱんまん</a>
   - <a href="https://reasonable-code.com/">Reasonable Code</a>
+- <a href="https://github.com/donchan922">GitHub</a>
+- <a href="https://qiita.com/donchan922">Qiita</a>
