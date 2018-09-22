@@ -1,7 +1,7 @@
 ![daipanman](https://user-images.githubusercontent.com/31620041/38808508-73024c70-41bb-11e8-8d68-eb099039ade4.png)
 
 # About
-だいぱんまんです。技術を磨くのが大好きなITエンジニア。ものづくりが趣味です。
+だいぱんまん。技術を磨きたくてSIerからWeb業界に転職したエンジニア。ものづくりが趣味です。
 
 # Skills
 - HTML
@@ -44,7 +44,7 @@
 - LPIC-1 (LinuC-1)
 
 # Contact
-- <a href="https://twitter.com/donchan922">Twitter</a>
 - <a href="https://reasonable-code.com/">Blog</a>
+- <a href="https://twitter.com/donchan922">Twitter</a>
 - <a href="https://github.com/donchan922">GitHub</a>
 - <a href="https://qiita.com/donchan922">Qiita</a>
