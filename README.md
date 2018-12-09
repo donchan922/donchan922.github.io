@@ -6,9 +6,11 @@
 # Skills
 - HTML
 - CSS
-- javascript
+- JavaScript
 - Linux
 - Java
+- PHP
+- Ruby
 - Oracle
 - Raspberry Pi
 - Google Home
