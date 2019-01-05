@@ -17,6 +17,9 @@
 - Amazon Alexa
 
 # Works
+## 2019
+- <a href="https://twitter.com/qiita_trend_bot">Qiitaトレンド新着bot</a>
+
 ## 2018
 - <a href="https://qiita.com/donchan922/items/2764f6d53f07d6fd4fa3">ポケモンの種族値を検索するコマンドラインツール</a>
 - <a href="https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja">1-Click Link Copy as Markdown（Google Chrome拡張機能）</a>
