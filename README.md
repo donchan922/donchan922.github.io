@@ -4,17 +4,16 @@
 だいぱんまん。技術を磨きたくてSIerからWeb業界に転職したエンジニア。技術ブログを書いたり、ものづくりしたりするのが趣味です。
 
 # Skills
+- Java
+  - Spring Boot
+- Ruby
+  - Ruby on Rails  
+- PHP
 - HTML
 - CSS
 - JavaScript
-- Linux
-- Java
-- PHP
-- Ruby
+- Git
 - Oracle
-- Raspberry Pi
-- Google Home
-- Amazon Alexa
 
 # Works
 ## 2019
