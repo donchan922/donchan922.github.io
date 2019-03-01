@@ -5,9 +5,7 @@
 
 # Skills
 - Java
-  - Spring Boot
 - Ruby
-  - Ruby on Rails  
 - PHP
 - HTML
 - CSS
