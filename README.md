@@ -4,13 +4,13 @@
 だいぱんまん。技術を磨きたくてSIerからWeb業界に転職したエンジニア。技術ブログを書いたり、ものづくりしたりするのが趣味です。
 
 # Skills
-- Java
-- Ruby
+- Java / Spring Framework / Spring Boot
+- Ruby / Ruby on Rails
 - PHP
 - HTML
 - CSS
 - JavaScript
-- Git
+- Git / GitHub
 - Oracle
 
 # Works
