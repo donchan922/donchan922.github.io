@@ -1,7 +1,7 @@
 ![daipanman](https://user-images.githubusercontent.com/31620041/38808508-73024c70-41bb-11e8-8d68-eb099039ade4.png)
 
 # About
-だいぱんまん。技術を磨きたくてSIerからWeb業界に転職したエンジニア。技術ブログを書いたり、ものづくりしたりするのが趣味です。
+だいぱんまん。技術を磨きたくてSIerからWeb業界に転職したエンジニア。技術ブログを書いたり、個人開発したりするのが趣味です。
 
 # Skills
 - Java / Spring Framework / Spring Boot
