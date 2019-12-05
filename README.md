@@ -1,15 +1,15 @@
-![daipanman](https://user-images.githubusercontent.com/31620041/38808508-73024c70-41bb-11e8-8d68-eb099039ade4.png)
+<img src="https://user-images.githubusercontent.com/31620041/70232135-13581500-179f-11ea-9f54-cad6cf882838.png" width="320">
 
 # About
 だいぱんまん。技術を磨きたくてSIerからWeb業界に転職したエンジニア。技術ブログを書いたり、個人開発したりするのが趣味です。
 
 # Skills
 - Java / Spring Framework / Spring Boot
-- Ruby / Ruby on Rails
 - PHP
 - HTML
 - CSS
 - JavaScript
+- Linux
 - Git / GitHub
 - Oracle
 
