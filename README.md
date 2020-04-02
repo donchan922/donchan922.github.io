@@ -12,8 +12,12 @@
 - Linux
 - Git / GitHub
 - Oracle
+- Swift / SwiftUI
 
 # Works
+## 2020
+- <a href="https://apps.apple.com/jp/app/%E7%B0%A1%E5%8D%98%E5%88%A9%E7%9B%8A%E8%A8%88%E7%AE%97/id1505894196">簡単利益計算</a>
+
 ## 2019
 - <a href="https://twitter.com/qiita_trend_bot">Qiitaトレンド新着bot</a>
 - <a href="https://next-holiday-dondake.herokuapp.com">次の祝日までどんだけ〜</a>
