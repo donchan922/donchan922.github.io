@@ -6,18 +6,16 @@
 # Skills
 - Java / Spring Framework / Spring Boot
 - PHP
-- HTML
-- CSS
-- JavaScript
 - Linux
+- SQL / Oracle Database
 - Git / GitHub
-- Oracle
-- Swift / SwiftUI
+- Chef
+- Screwdriver.cd
 
-# Works
+# Private Works
 ## 2020
 - <a href="https://apps.apple.com/jp/app/%E7%B0%A1%E5%8D%98%E5%88%A9%E7%9B%8A%E8%A8%88%E7%AE%97/id1505894196">簡単利益計算</a>
-- <a href="https://apps.apple.com/jp/app/%E6%B0%B4%E3%82%84%E3%82%8A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/id1512620039">水やりのお知らせ</a>
+- <a href="https://github.com/donchan922/watering_notification">水やりのお知らせ</a>
 
 ## 2019
 - <a href="https://twitter.com/qiita_trend_bot">Qiitaトレンド新着bot</a>
