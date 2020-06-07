@@ -6,7 +6,7 @@
 # Skills
 - Java / Spring Framework / Spring Boot
 - PHP
-- Linux
+- Linux / Shell Script
 - SQL / Oracle Database
 - Git / GitHub
 - Chef
