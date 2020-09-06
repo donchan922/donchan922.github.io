@@ -6,10 +6,11 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      - run: ls /github/workspace/README.md
+      - uses: actions/checkout@v2
+      - run: ls
       - uses: docker://pandoc/core:2.9
         with:
           args: >-
             --output=README.pdf
-            /github/workspace/README.md
+            ./README.md
 
