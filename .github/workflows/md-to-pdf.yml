@@ -10,6 +10,7 @@ jobs:
       - uses: docker://pandoc/core:2.9
         with:
           args: >-
+            --standalone
             --output=README.pdf
             ./README.md
       - uses: actions/upload-artifact@master
