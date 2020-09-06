@@ -7,14 +7,11 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-      - uses: docker://pandoc/core:2.9
+      - uses: docker://pandoc/latex:2.9
         with:
-          args: >-
-            --standalone
-            --output=README.pdf
-            ./README.md
+          args: --output=README.pdf ./README.md
       - uses: actions/upload-artifact@master
         with:
           name: md-to-pdf
-          path: ./README.md
+          path: ./README.pdf
 
