@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --output=README.pdf ./README.md
+          args: --pdf-engine=xelatex --output=README.pdf ./README.md
       - uses: actions/upload-artifact@master
         with:
           name: md-to-pdf
