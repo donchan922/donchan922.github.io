@@ -60,6 +60,7 @@
 | Git/GitHub | 実務で2年ほど経験。チーム開発に必要な操作が一通り行える |
 | Screwdriver | 実務で1年ほど経験。CI/CDの実装が行える |
 | Chef | 実務で1年ほど経験。環境構築・実装が行える |
+| Kubernetes | 実務で数ヶ月ほど経験。kubectlコマンドが触れる程度 |
 
 ## 個人開発
 - <a href="https://apps.apple.com/jp/app/%E7%B0%A1%E5%8D%98%E5%88%A9%E7%9B%8A%E8%A8%88%E7%AE%97/id1505894196">簡単利益計算</a>
