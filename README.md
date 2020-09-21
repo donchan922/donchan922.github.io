@@ -63,8 +63,7 @@
 | Kubernetes | 実務で数ヶ月ほど経験。基本的な`kubectl`コマンドが使える |
 
 ## 個人開発
-- <a href="https://apps.apple.com/jp/app/%E7%B0%A1%E5%8D%98%E5%88%A9%E7%9B%8A%E8%A8%88%E7%AE%97/id1505894196">簡単利益計算</a>
-- <a href="https://github.com/donchan922/watering_notification">水やりのお知らせ</a>
+- <a href="https://apps.apple.com/us/developer/daiki-tsukuda/id1505893655">iPhone/iPadアプリ</a>
 - <a href="https://twitter.com/qiita_trend_bot">Qiitaトレンド新着bot</a>
 - <a href="https://next-holiday-dondake.herokuapp.com">次の祝日までどんだけ〜</a>
 - <a href="https://qiita.com/donchan922/items/2764f6d53f07d6fd4fa3">ポケモンの種族値を検索するコマンドラインツール</a>
