@@ -7,6 +7,7 @@
 | Twitter | [@donchan922](https://twitter.com/donchan922) |
 | GitHub | [donchan922](https://github.com/donchan922) |
 | Qiita | [donchan922](https://qiita.com/donchan922) |
+| Zenn | [donchan922](https://zenn.dev/donchan922) |
 
 ## 概要
 - バックエンドエンジニア
