@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ポートフォリオ
 ---
 
 ## 基本情報
