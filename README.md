@@ -3,6 +3,7 @@
 | key | value |
 | --- | --- |
 | 氏名 | 佃 大貴（Daiki Tsukuda） |
+| メール | donchan922@gmail.com |
 | ブログ | [Reasonable Code](https://reasonable-code.com/) |
 | Twitter | [@donchan922](https://twitter.com/donchan922) |
 | GitHub | [donchan922](https://github.com/donchan922) |
