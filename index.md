@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## 基本情報
 
 | key | value |
