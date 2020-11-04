@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## 基本情報
-
 | key | value |
 | --- | --- |
 | 氏名 | 佃 大貴（Daiki Tsukuda） |
