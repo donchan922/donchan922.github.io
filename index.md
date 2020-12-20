@@ -50,14 +50,13 @@ title: ポートフォリオ
 | PHP | 5系, 7系を実務で1年ほど経験 |
 | JavaScript | HTML, CSSと組合わせて実務で半年ほど経験 |
 | Swift | 実務経験なしだが、個人開発でSwiftUIを使ってiOSアプリ複数リリース経験あり |
-| Ruby | 実務経験なしだが、個人開発で数ヶ月ほど経験。基本文法は習得済み |
 
 ### フレームワーク
 
 | 種別 | 説明 |
 | --- | --- |
 | Spring Boot | 1番得意なフレームワーク。実務で1年半ほど経験。API、バッチ開発が行える |
-| Ruby on Rails | 実務経験なしだが、個人開発で数ヶ月ほど経験。簡易なWebアプリケーションが作成できる |
+| Flutter | 実務経験なしだが、個人開発で数ヶ月ほど経験。ChangeNotifier + Provider構成。リリースしたアプリ [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) |
 
 ### その他
 
@@ -71,7 +70,7 @@ title: ポートフォリオ
 | Kubernetes | 実務で数ヶ月ほど経験。基本的な`kubectl`コマンドが使える |
 
 ## 個人開発
-- <a href="https://apps.apple.com/us/developer/daiki-tsukuda/id1505893655">iPhone/iPadアプリ</a>
+- <a href="https://apps.apple.com/us/developer/daiki-tsukuda/id1505893655">iOS</a> / <a href="https://play.google.com/store/apps/developer?id=Daiki+Tsukuda">Android</a>
 - <a href="https://twitter.com/qiita_trend_bot">Qiitaトレンド新着bot</a>
 - <a href="https://next-holiday-dondake.herokuapp.com">次の祝日までどんだけ〜</a>
 - <a href="https://qiita.com/donchan922/items/2764f6d53f07d6fd4fa3">ポケモンの種族値を検索するコマンドラインツール</a>
