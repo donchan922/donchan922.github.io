@@ -56,7 +56,7 @@ title: ポートフォリオ
 | 種別 | 説明 |
 | --- | --- |
 | Spring Boot | 1番得意なフレームワーク。実務で1年半ほど経験。API、バッチ開発が行える |
-| Flutter | 実務経験なしだが、個人開発で数ヶ月ほど経験。ChangeNotifier + Provider構成。リリースしたアプリ [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) |
+| Flutter | 実務経験なしだが、個人開発で数ヶ月ほど経験。Provider + StateNotifier + freezed構成。リリースしたアプリ [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) |
 
 ### その他
 
