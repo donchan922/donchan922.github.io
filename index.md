@@ -72,7 +72,6 @@ title: ポートフォリオ
 ## 個人開発
 - <a href="https://apps.apple.com/us/developer/daiki-tsukuda/id1505893655">iOS</a> / <a href="https://play.google.com/store/apps/developer?id=Daiki+Tsukuda">Android</a>
 - <a href="https://twitter.com/qiita_trend_bot">Qiitaトレンド新着bot</a>
-- <a href="https://next-holiday-dondake.herokuapp.com">次の祝日までどんだけ〜</a>
 - <a href="https://qiita.com/donchan922/items/2764f6d53f07d6fd4fa3">ポケモンの種族値を検索するコマンドラインツール</a>
 - <a href="https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja">1-Click Link Copy as Markdown（Google Chrome拡張機能）</a>
 - <a href="https://assistant.google.com/services/a/uid/000000ebf4570c78">ミスタードーナツのカロリー（Googleアシスタントアプリ）</a>
