@@ -33,7 +33,7 @@ title: ポートフォリオ
 
 - IaaSやPaaS、CaaSといったクラウド環境への移行
 - Java, Spring Bootを用いたAPI、バッチ開発
-- ScrewdriverやChefを用いたCI/CD導入
+- Screwdriver.cdを用いたCI/CD導入
 
 ### 富士通株式会社（2014/4〜2018/9）
 職務: エンジニア
