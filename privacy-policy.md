@@ -10,5 +10,5 @@ Daiki Tsukuda（以下、開発者）は、本アプリケーション（以下�
 
 本ポリシーに関するお問い合わせは、以下の窓口までお願いします。
 
-E-mail: donchan922@gmail.com
+donchan922@gmail.com
 
