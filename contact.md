@@ -11,3 +11,5 @@ title: お問い合わせ
 をご記入のうえ、以下の窓口までお問い合わせください。
 
 donchan922@gmail.com
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtf2reNY99-Njnlg0pVSdClmf7uhbX_IxmDY8lseXPRFyJIg/viewform?embedded=true" width="640" height="757" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
