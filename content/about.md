@@ -1,17 +1,18 @@
 ---
-layout: default
-title: ポートフォリオ
+title: "About"
+date: 2021-03-21T16:19:49+09:00
 ---
 
 ## 基本情報
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtf2reNY99-Njnlg0pVSdClmf7uhbX_IxmDY8lseXPRFyJIg/viewform?embedded=true" width="640" height="737" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+
 | key | value |
 | --- | --- |
-| 氏名 | 佃 大貴（Daiki Tsukuda） |
-| メール | donchan922@gmail.com |
-| ブログ | [Reasonable Code](https://reasonable-code.com/) |
+| Name | 佃 大貴（Daiki Tsukuda） |
 | Twitter | [@donchan922](https://twitter.com/donchan922) |
 | GitHub | [donchan922](https://github.com/donchan922) |
+| Blog | [Reasonable Code](https://reasonable-code.com/) |
 | Qiita | [donchan922](https://qiita.com/donchan922) |
 | Zenn | [donchan922](https://zenn.dev/donchan922) |
 
@@ -71,18 +72,17 @@ title: ポートフォリオ
 | Kubernetes | 実務で数ヶ月ほど経験。基本的な`kubectl`コマンドが使える |
 
 ## 個人開発
-- <a href="https://apps.apple.com/us/developer/daiki-tsukuda/id1505893655">iOS</a> / <a href="https://play.google.com/store/apps/developer?id=Daiki+Tsukuda">Android</a>
-- <a href="https://twitter.com/qiita_trend_bot">Qiitaトレンド新着bot</a>
-- <a href="https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja">1-Click Link Copy as Markdown（Google Chrome拡張機能）</a>
-- <a href="https://assistant.google.com/services/a/uid/000000ebf4570c78">ミスタードーナツのカロリー（Googleアシスタントアプリ）</a>
-- <a href="https://daipanman.hatenablog.com/entry/2017/08/02/214429">Amazon Dash Buttonをハックしてつくる阪神タイガースの試合速報通知ボタン</a>
-- <a href="https://daipanman.hatenablog.com/entry/2017/08/17/195259">Raspberry Pi＋IRKit＋Homebridgeで自宅の家電をSiriで音声操作</a>
-- <a href="https://daipanman.hatenablog.com/entry/2017/08/22/113847">IRKit＋IFTTTを使った家電自動操作</a>
-- <a href="https://daipanman.hatenablog.com/entry/2017/09/16/185831">Google Apps Scriptを使った星占いLINE Bot</a>
+- [iOS](https://apps.apple.com/us/developer/daiki-tsukuda/id1505893655) / [Android](https://play.google.com/store/apps/developer?id=Daiki+Tsukuda)
+- [Qiitaトレンド新着bot](https://twitter.com/qiita_trend_bot)
+- [1-Click Link Copy as Markdown（Chrome拡張機能）](https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja)
+- [ミスタードーナツのカロリー（Googleアシスタントアプリ）](https://assistant.google.com/services/a/uid/000000ebf4570c78)
+- [Amazon Dash Buttonをハックしてつくる阪神タイガースの試合速報通知ボタン](https://daipanman.hatenablog.com/entry/2017/08/02/214429)
+- [Raspberry Pi＋IRKit＋Homebridgeで自宅の家電をSiriで音声操作](https://daipanman.hatenablog.com/entry/2017/08/17/195259)
+- [IRKit＋IFTTTを使った家電自動操作](https://daipanman.hatenablog.com/entry/2017/08/22/113847)
+- [Google Apps Scriptを使った星占いLINE Bot](https://daipanman.hatenablog.com/entry/2017/09/16/185831)
 
 ## 保有資格
 - TOEIC 730
 - 基本情報技術者
 - 応用情報技術者
 - LPIC-1（LinuC-1）
-

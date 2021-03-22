@@ -1,0 +1,27 @@
+baseURL: https://donchan922.com
+title: donchan922.com
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+publishDir: "docs"
+
+params:
+  env: production
+  profileMode:
+    enabled: true
+    imageUrl: icon.png
+    imageTitle: icon
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Contact
+        url: "/contact"
+  hidemeta: true

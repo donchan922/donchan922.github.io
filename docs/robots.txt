@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://donchan922.com/sitemap.xml

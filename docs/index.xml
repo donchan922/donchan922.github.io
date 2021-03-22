@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>donchan922.com</title>
+    <link>https://donchan922.com/</link>
+    <description>Recent content on donchan922.com</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://donchan922.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://donchan922.com/about/</link>
+      <pubDate>Sun, 21 Mar 2021 16:19:49 +0900</pubDate>
+      
+      <guid>https://donchan922.com/about/</guid>
+      <description>基本情報    key value     Name 佃 大貴（Daiki Tsukuda）   Twitter @donchan922   GitHub donchan922   Blog Reasonable Code   Qiita donchan922   Zenn donchan922    概要  バックエンドエンジニア Java（Spring Boot）を用いたWebアプリケーション開発が得意 Git/GitHubを用いたチーム開発や、CI/CDを利用したインフラ構築が行える FlutterやSwiftUIを使って個人でアプリを作っている  職務経歴 ヤフー株式会社（2018/10〜現在） 職務: バックエンドエンジニア
+ 独自OS 使用言語がフレームワーク未利用のPHP（テストコードもなし） CI/CD未導入  といった自社のレガシーシステムをモダン化するため、以下を設計から開発・テスト、リリースまで主担当として行った。
+ IaaSやPaaS、CaaSといったクラウド環境への移行 Java, Spring Bootを用いたAPI、バッチ開発 Screwdriver.cdを用いたCI/CD導入  富士通株式会社（2014/4〜2018/9） 職務: エンジニア
+ 商社向け基幹システム開発に上流工程から下流工程までを一貫して担当 Javaを用いたWebアプリケーションの構築やシステム基盤の構築・運用保守を実施 開発リーダーとして協力会社10名の進捗・課題管理を行いつつ、上流工程から顧客折衝の経験を積んだため、技術的スキルだけでなく、コミュニケーションスキルも体得  スキル プログラミング言語    種別 説明     Java 1番得意な言語。Java8, Java11を実務で5年ほど経験。Webアプリケーション開発が行える   PHP 5系, 7系を実務で1年ほど経験   JavaScript HTML, CSSと組合わせて実務で半年ほど経験   Swift 実務経験なしだが、個人開発でSwiftUIを使ってiOSアプリ複数リリース経験あり    フレームワーク    種別 説明     Spring Boot 1番得意なフレームワーク。実務で1年半ほど経験。API、バッチ開発が行える   Flutter 実務経験なしだが、個人開発で数ヶ月ほど経験。Provider + StateNotifier + freezed構成。リリースしたアプリ iOS / Android    その他    種別 説明     SQL Oracle Databaseを実務で5年ほど経験。基本的なCRUD操作が行える   Linux 実務で3年ほど経験。基本的なBashコマンドが使える。LPIC-1（LinuC-1）保有   Git/GitHub 実務で2年ほど経験。チーム開発に必要な操作が一通り行える   Screwdriver.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://donchan922.com/contact/</link>
+      <pubDate>Sun, 21 Mar 2021 16:19:49 +0900</pubDate>
+      
+      <guid>https://donchan922.com/contact/</guid>
+      <description>以下からご連絡ください。
+お問い合わせフォーム</description>
+    </item>
+    
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>https://donchan922.com/privacy-policy/</link>
+      <pubDate>Sun, 21 Mar 2021 16:19:49 +0900</pubDate>
+      
+      <guid>https://donchan922.com/privacy-policy/</guid>
+      <description>Daiki Tsukuda（以下、開発者）は、本アプリケーション（以下、アプリ）の運営に関し、第三者に個人を特定できる情報を提供することはありません。個人情報の管理には細心の注意を払い、以下に掲げた通りに扱います。
+データ解析 開発者は、アプリの利便性向上のため、匿名で、個人を特定できない範囲に細心の注意を払い、アクセス解析をしています。また、デバイスやアプリバージョンの使用率、特定の機能の使用率などを解析し、アプリの改善に役立てています。(例えば、使われていない機能はシンプルにするため省くなど)
+本ポリシーに関するお問い合わせは、以下の窓口までお願いします。
+donchan922@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
