@@ -4,9 +4,6 @@ date: 2021-03-21T16:19:49+09:00
 ---
 
 ## 基本情報
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtf2reNY99-Njnlg0pVSdClmf7uhbX_IxmDY8lseXPRFyJIg/viewform?embedded=true" width="640" height="737" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
-
 | key | value |
 | --- | --- |
 | Name | 佃 大貴（Daiki Tsukuda） |
