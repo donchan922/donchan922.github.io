@@ -25,3 +25,4 @@ params:
       - name: Contact
         url: "/contact"
   hidemeta: true
+  disableScrollToTop: true
