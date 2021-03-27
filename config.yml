@@ -2,6 +2,7 @@ baseURL: https://donchan922.com
 title: donchan922.com
 theme: "PaperMod"
 
+defaultContentLanguage: "ja"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
