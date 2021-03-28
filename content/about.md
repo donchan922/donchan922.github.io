@@ -17,7 +17,6 @@ date: 2021-03-21T16:19:49+09:00
 - バックエンドエンジニア
 - Java（Spring Boot）を用いたWebアプリケーション開発が得意
 - Git/GitHubを用いたチーム開発や、CI/CDを利用したインフラ構築が行える
-- FlutterやSwiftUIを使って個人でアプリを作っている
 
 ## 職務経歴
 ### ヤフー株式会社（2018/10〜現在）
@@ -48,14 +47,14 @@ date: 2021-03-21T16:19:49+09:00
 | Java | 1番得意な言語。Java8, Java11を実務で5年ほど経験。Webアプリケーション開発が行える |
 | PHP | 5系, 7系を実務で1年ほど経験 |
 | JavaScript | HTML, CSSと組合わせて実務で半年ほど経験 |
-| Swift | 実務経験なしだが、個人開発でSwiftUIを使ってiOSアプリ複数リリース経験あり |
+| Swift | 実務経験なしだが、個人開発でSwiftUIを使ってiOSアプリのリリース経験あり |
 
 ### フレームワーク
 
 | 種別 | 説明 |
 | --- | --- |
 | Spring Boot | 1番得意なフレームワーク。実務で1年半ほど経験。API、バッチ開発が行える |
-| Flutter | 実務経験なしだが、個人開発で数ヶ月ほど経験。Provider + StateNotifier + freezed構成。リリースしたアプリ [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) |
+| Flutter | 実務経験なしだが、個人開発でiOS / Androidアプリのリリース経験あり |
 
 ### その他
 
@@ -67,16 +66,6 @@ date: 2021-03-21T16:19:49+09:00
 | Screwdriver.cd | 実務で1年ほど経験。CI/CDの実装が行える |
 | Chef | 実務で1年ほど経験。環境構築・実装が行える |
 | Kubernetes | 実務で数ヶ月ほど経験。基本的な`kubectl`コマンドが使える |
-
-## 個人開発
-- [iOS](https://apps.apple.com/us/developer/daiki-tsukuda/id1505893655) / [Android](https://play.google.com/store/apps/developer?id=Daiki+Tsukuda)
-- [Qiitaトレンド新着bot](https://twitter.com/qiita_trend_bot)
-- [1-Click Link Copy as Markdown（Chrome拡張機能）](https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja)
-- [ミスタードーナツのカロリー（Googleアシスタントアプリ）](https://assistant.google.com/services/a/uid/000000ebf4570c78)
-- [Amazon Dash Buttonをハックしてつくる阪神タイガースの試合速報通知ボタン](https://daipanman.hatenablog.com/entry/2017/08/02/214429)
-- [Raspberry Pi＋IRKit＋Homebridgeで自宅の家電をSiriで音声操作](https://daipanman.hatenablog.com/entry/2017/08/17/195259)
-- [IRKit＋IFTTTを使った家電自動操作](https://daipanman.hatenablog.com/entry/2017/08/22/113847)
-- [Google Apps Scriptを使った星占いLINE Bot](https://daipanman.hatenablog.com/entry/2017/09/16/185831)
 
 ## 保有資格
 - TOEIC 730

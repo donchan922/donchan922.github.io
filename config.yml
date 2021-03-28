@@ -18,11 +18,13 @@ params:
   env: production
   profileMode:
     enabled: true
-    imageUrl: "icon.png"
+    imageUrl: "/images/icon.png"
     imageTitle: icon
     buttons:
       - name: About
         url: "/about"
+      - name: Works
+        url: "/works"
       - name: Contact
         url: "/contact"
   hidemeta: true
