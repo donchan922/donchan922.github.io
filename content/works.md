@@ -30,7 +30,7 @@ Qiitaのトレンド新着記事をお知らせするTwitter botです。Qiita�
 
 1クリックで現在開いているページのリンクをマークダウン形式でコピーするChrome拡張機能です。技術ブログの記事を書くときに、リンクをマークダウン形式でサクッとコピーしたかったので作りました。例えば、このページで使うと以下内容がコピーされます。
 ```
-[Work | donchan922.com](https://donchan922.com/work/)
+[Works | donchan922.com](https://donchan922.com/works/)
 ```
 
 ## [ミスタードーナツのカロリー](https://assistant.google.com/services/a/uid/000000ebf4570c78)
