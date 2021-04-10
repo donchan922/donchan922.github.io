@@ -3,7 +3,7 @@
 [https://donchan922.com](https://donchan922.com)
 
 ## Requirement
-- Hugo >= 0.74.0
+- Hugo >= 0.82.0
 
 ## Installation
 ```bash
