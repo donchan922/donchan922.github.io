@@ -1,5 +1,5 @@
 # Portfolio
-![screenshot](https://user-images.githubusercontent.com/31620041/112150921-fb223880-8c23-11eb-9b59-aa7a4bcae08c.png)
+![screenshot](https://user-images.githubusercontent.com/31620041/115137652-46ccd400-a062-11eb-966b-0bfc8c656bec.png)
 [https://donchan922.com](https://donchan922.com)
 
 ## Requirement
