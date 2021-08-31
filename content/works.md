@@ -9,7 +9,7 @@ date: 2021-03-28T18:49:08+09:00
 | 縦型カレンダー　　　　 | かんたん利益計算　　　 | かんたんパスワード生成 |
 | --- | --- | --- |
 | ![vertical-calendar](/images/vertical-calendar.png#center) | ![profit-calculator](/images/profit-calculator.png) | ![password-generator](/images/password-generator.png#center) |
-| [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) | [iOS](https://apple.co/3fgbJZE) | [iOS](https://apple.co/39hQWkD) |
+| [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) | [iOS](https://apple.co/3fgbJZE) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.profit_calculator) | [iOS](https://apple.co/39hQWkD) |
 
 作成したiOS / Androidアプリのうち、特に気に入っている3つです。
 
