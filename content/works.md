@@ -6,9 +6,9 @@ date: 2021-03-28T18:49:08+09:00
 個人開発で作成したものです。言語やフレームワークに縛られず、作りたいものに合わせて技術を選択し、開発しています。気になったものがあればぜひ使ってみてください。
 
 ## iOS / Androidアプリ
-| 縦型カレンダー　　　　 | かんたん利益計算　　　 | かんたんカロリー管理 |
+| 縦型カレンダー　　　　 | かんたん利益計算　　　 | かんたんカロリー管理　 |
 | --- | --- | --- |
-| ![vertical-calendar](/images/vertical-calendar.png#center) | ![profit-calculator](/images/profit-calculator.png) | ![password-generator](/images/calorie-manage.png#center) |
+| ![vertical-calendar](/images/vertical-calendar.png#center) | ![profit-calculator](/images/profit-calculator.png) | ![calorie-manage](/images/calorie-manage.png#center) |
 | [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) | [iOS](https://apple.co/3fgbJZE) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.profit_calculator) | [iOS](https://apple.co/35MhoUJ) |
 
 作成したiOS / Androidアプリのうち、特に気に入っている3つです。
