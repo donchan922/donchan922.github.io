@@ -22,6 +22,7 @@ params:
   env: production
   profileMode:
     enabled: true
+    title: "Daiki Tsukuda"
     imageUrl: "/images/icon.png"
     imageTitle: icon
     buttons:
