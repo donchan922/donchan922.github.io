@@ -22,7 +22,9 @@ date: 2021-03-28T18:49:08+09:00
 ## [Qiitaトレンド新着bot](https://twitter.com/qiita_trend_bot#center)
 ![qiita-trend-bot](/images/qiita-trend-bot.jpeg#center)
 
-Qiitaのトレンド新着記事をお知らせするTwitter botです。Qiitaが運営しているTwitterアカウントにも同じようなものがあったのですが投稿数が少ないため、朝夕にまとめてトレンド新着記事を通知するTwitter botを作りました。
+Qiitaのトレンド新着記事をお知らせするTwitter botです。Qiitaが運営しているTwitterアカウントにも同じようなものがあったのですが投稿数が少ないため、朝夕にまとめてトレンド新着記事を通知するTwitter botを作りました。  
+
+※現在はサービス終了
 
 ## [1-Click Link Copy as Markdown](https://chrome.google.com/webstore/detail/1-click-link-copy-as-mark/pmhehcpfecalmggdcdhhlcolaifiejao?hl=ja)
 
