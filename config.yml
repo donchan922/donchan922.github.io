@@ -20,6 +20,7 @@ publishDir: "docs"
 
 params:
   env: production
+  description: "Daiki Tsukuda / Software Developer"
   profileMode:
     enabled: true
     title: "Daiki Tsukuda"
