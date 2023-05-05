@@ -80,9 +80,9 @@ date: 2021-03-21T16:19:49+09:00
 ### その他
 | 種別 | 説明 |
 | --- | --- |
-| Kubernetes, Docker | Manifestの作成をはじめ、コンテナ基盤の構築が行える。 |
+| Kubernetes / Docker | Manifestの作成をはじめ、コンテナ基盤の構築が行える。 |
 | Cloud Foundry | PaaS環境での開発・運用が行える。 |
-| Git, GitHub | チーム開発に必要な操作が一通り行える。 |
+| Git / GitHub | チーム開発に必要な操作が一通り行える。 |
 | Screwdriver.cd | CI/CDの実装が行える。 |
 | Splunk | SPLを利用したログ分析やデータの可視化が行える。 |
 | Chef | 設計から実装まで行える。 |
