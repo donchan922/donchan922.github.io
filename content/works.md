@@ -6,18 +6,18 @@ date: 2021-03-28T18:49:08+09:00
 個人開発で作成したものです。言語やフレームワークに縛られず、作りたいものに合わせて技術を選択し、開発しています。気になったものがあればぜひ使ってみてください。
 
 ## iOS / Androidアプリ
-| 縦型カレンダー　　　　 | かんたん利益計算　　　 | かんたんカロリー管理　 |
+| かんたんカロリー管理 | かんたん利益計算　　 | 縦型カレンダー　　　 |
 | --- | --- | --- |
-| ![vertical-calendar](/images/vertical-calendar.png#center) | ![profit-calculator](/images/profit-calculator.png) | ![calorie-manage](/images/calorie-manage.png#center) |
-| [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) | [iOS](https://apple.co/3fgbJZE) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.profit_calculator) | [iOS](https://apple.co/3HZpTfN) |
+| ![calorie-manage](/images/calorie-manage.png#center) | ![profit-calculator](/images/profit-calculator.png) | ![vertical-calendar](/images/vertical-calendar.png#center) |
+| [iOS](https://apple.co/3HZpTfN) | [iOS](https://apple.co/3fgbJZE) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.profit_calculator) | [iOS](https://apple.co/3mokfWf) / [Android](https://play.google.com/store/apps/details?id=com.donchan922.vertical_calendar) |
 
 作成したiOS / Androidアプリのうち、特に気に入っている3つです。
 
-縦型カレンダーは、日ごとにメモが簡単に残せたり、メモがサクッと検索できたりするアプリです。「献立を記録できるカレンダーアプリがほしい」という妻の要望できっかけで作りました。
+かんたんカロリー管理は、妻の要望で作ったカロリー管理や食事記録がかんたんにできるシンプルなアプリです。
 
 かんたん利益計算は、メルカリやPayPayフリマ、ヤフオクなどに出品する際に、簡単に利益が計算できるアプリです。
 
-かんたんカロリー管理は、妻の要望で作ったカロリー管理や食事記録がかんたんにできるシンプルなアプリです。
+縦型カレンダーは、日ごとにメモが簡単に残せたり、メモがサクッと検索できたりするアプリです。「献立を記録できるカレンダーアプリがほしい」という妻の要望できっかけで作りました。
 
 ## [Qiitaトレンド新着bot](https://twitter.com/qiita_trend_bot#center)
 ![qiita-trend-bot](/images/qiita-trend-bot.jpeg#center)
