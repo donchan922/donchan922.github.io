@@ -76,7 +76,7 @@ date: 2021-03-21T16:19:49+09:00
 Java/ TypeScript / JavaScript / PHP
 
 ### フレームワークなど
-Spring Boot / Node.js / React / Next.js
+Spring Boot / Node.js / React / Next.js / Knockout.js
 
 ### データベース
 MySQL / Oracle
