@@ -73,7 +73,7 @@ date: 2021-03-21T16:19:49+09:00
 ## スキル
 実務で使用した技術のみ記載。
 ### プログラミング言語
-Java/ TypeScript / JavaScript / PHP
+Java / TypeScript / JavaScript / PHP
 
 ### フレームワークなど
 Spring Boot / Node.js / React / Next.js / Knockout.js
