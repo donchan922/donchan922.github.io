@@ -7,6 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 15 Feb 2024 14:30:27 +0900</lastBuildDate><atom:link href="https://donchan922.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>プライバシーポリシー</title>
+      <link>https://donchan922.com/verticalcalendar/privacypolicy/</link>
+      <pubDate>Thu, 15 Feb 2024 14:30:27 +0900</pubDate>
+      
+      <guid>https://donchan922.com/verticalcalendar/privacypolicy/</guid>
+      <description>Daiki Tsukuda（以下、「当方」といいます）が提供するアプリ「縦型カレンダー」（以下、「本アプリ」といいます）のプライバシーポリシーを以下に定めます。
+広告配信について 本アプリでは、広告配信のために、Googleの提供するGoogle AdMobを利用し、利用者の情報を取得する場合があります。詳細については、以下のリンクからご確認ください。
+広告 – ポリシーと規約 – Google
+利用状況の解析について 本アプリでは、サービスの改善のために、Googleの提供するFirebaseを利用し、利用者の情報を取得する場合があります。詳細については、以下のリンクからご確認ください。
+Firebase のプライバシーとセキュリティ
+免責事項 利用者が本アプリを利用して生じた損害について、当方は責任を一切負わないものとします。
+（2024年2月15日制定）</description>
+    </item>
+    
+    <item>
       <title>利用規約</title>
       <link>https://donchan922.com/verticalcalendar/terms/</link>
       <pubDate>Thu, 15 Feb 2024 14:30:27 +0900</pubDate>
@@ -33,21 +48,6 @@
 広告 – ポリシーと規約 – Google
 免責事項 利用者が本アプリを利用して生じた損害について、当方は責任を一切負わないものとします。
 （2024年2月11日制定）</description>
-    </item>
-    
-    <item>
-      <title>プライバシーポリシー</title>
-      <link>https://donchan922.com/verticalcalendar/privacypolicy/</link>
-      <pubDate>Sun, 11 Feb 2024 09:21:33 +0900</pubDate>
-      
-      <guid>https://donchan922.com/verticalcalendar/privacypolicy/</guid>
-      <description>Daiki Tsukuda（以下、「当方」といいます）が提供するアプリ「縦型カレンダー」（以下、「本アプリ」といいます）のプライバシーポリシーを以下に定めます。
-広告配信について 本アプリでは、広告配信のために、Googleの提供するGoogle AdMobを利用し、利用者の情報を取得する場合があります。詳細については、以下のリンクからご確認ください。
-広告 – ポリシーと規約 – Google
-利用状況の解析について 本アプリでは、サービスの改善のために、Googleの提供するFirebaseを利用し、利用者の情報を取得する場合があります。詳細については、以下のリンクからご確認ください。
-Firebase のプライバシーとセキュリティ
-免責事項 利用者が本アプリを利用して生じた損害について、当方は責任を一切負わないものとします。
-（2024年2月15日制定）</description>
     </item>
     
     <item>
