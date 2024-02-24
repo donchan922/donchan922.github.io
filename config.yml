@@ -23,7 +23,8 @@ params:
   description: "👋 Welcome to donchan922.com"
   profileMode:
     enabled: true
-    title: "👋 Hello, I'm donchan922"
+    title: "donchan922"
+    subtitle: "👋 Hello, I'm donchan922"
     imageUrl: "/images/icon.png"
     imageTitle: icon
     buttons:
