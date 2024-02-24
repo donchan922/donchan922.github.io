@@ -8,3 +8,27 @@ html {
 .lang-switch {
     display: none;
 }
+
+.main .profile {
+    align-items: normal;
+    text-align: left;
+    min-height: unset;
+}
+
+.image-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+  
+.image-links a {
+    box-shadow: none;
+    display: block;
+    margin: 0 15px 0 0;
+}
+  
+.image-links img {
+    border-radius: 22%;
+    max-width: 100%;
+    height: auto;
+}
