@@ -11,7 +11,7 @@ Daiki Tsukuda（以下、「当方」といいます）が提供するアプリ�
 ## プライバシーポリシー
 当方は、利用者の個人情報をプライバシーポリシーに基づき、適切に取り扱います。
 
-[プライバシーポリシー](https://donchan922.com/verticalcalendar/terms/)
+[プライバシーポリシー](https://donchan922.com/verticalcalendar/privacypolicy/)
 
 ## 禁止事項
 利用者は、本アプリの利用にあたり、以下の行為を行ってはならないこととします。
