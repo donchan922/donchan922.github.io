@@ -4,3 +4,7 @@ html {
     -moz-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
+
+.lang-switch {
+    display: none;
+}
