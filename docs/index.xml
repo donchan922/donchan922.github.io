@@ -6,7 +6,7 @@
     <description>Recent content on donchan922.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Feb 2024 15:42:41 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:42:35 +0900</lastBuildDate>
     <atom:link href="https://donchan922.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>プライバシーポリシー</title>
@@ -140,8 +140,11 @@ Firebase のプライバシーとセキュリティ
       <pubDate>Wed, 08 Feb 2023 21:26:41 +0900</pubDate>
       <guid>https://donchan922.com/caloriemanage/privacypolicy/</guid>
       <description>Daiki Tsukuda（以下、「当方」といいます）が提供するアプリ「かんたんカロリー管理」（以下、「本アプリ」といいます）のプライバシーポリシーを以下に定めます。
-広告配信について 本アプリでは、広告配信のために、Googleの提供するGoogle AdMobを利用し、利用者の情報を取得する場合があります。詳細については、以下のリンクからご確認ください。
-広告 – ポリシーと規約 – Google
+データの保存について 本アプリでは、ユーザーが入力したデータを端末内に保存します。保存されたデータは、ユーザーが削除するまで保持されます。当方が外部サーバーへユーザーデータを送信・保存することはありません。
+データの削除方法 ユーザーは、以下の方法でデータを削除できます。
+アプリ内の削除機能を利用する アプリをアンインストールする アプリをアンインストールすると、端末内に保存されたデータは削除されます。
+広告配信について iOS版では、広告配信のために、Googleの提供するGoogle AdMobを利用し、利用者の情報を取得する場合があります。詳細については、以下のリンクからご確認ください。
+https://policies.google.com/technologies/ads?hl=ja
 免責事項 利用者が本アプリを利用して生じた損害について、当方は責任を一切負わないものとします。</description>
     </item>
     <item>
