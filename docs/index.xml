@@ -6,7 +6,7 @@
     <description>Recent content on donchan922.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 May 2026 12:11:28 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:51:50 +0900</lastBuildDate>
     <atom:link href="https://donchan922.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>プライバシーポリシー</title>
@@ -143,7 +143,7 @@ Firebase のプライバシーとセキュリティ
 データの保存について 本アプリでは、ユーザーが入力したデータを端末内に保存します。保存されたデータは、ユーザーが削除するまで保持されます。当方が外部サーバーへユーザーデータを送信・保存することはありません。
 データの削除方法 ユーザーは、以下の方法でデータを削除できます。
 アプリ内の削除機能を利用する アプリをアンインストールする アプリをアンインストールすると、端末内に保存されたデータは削除されます。
-広告配信について iOS版の本アプリでは、広告配信のためにGoogle AdMobを利用しています。 Google AdMobによる情報の取り扱いについては、以下のGoogleのポリシーをご確認ください。
+広告配信について 本アプリでは、広告配信のためにGoogle AdMobを利用しています。 Google AdMobによる情報の取り扱いについては、以下のGoogleのポリシーをご確認ください。
 https://policies.google.com/technologies/ads</description>
     </item>
     <item>

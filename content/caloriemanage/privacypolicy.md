@@ -17,7 +17,7 @@ Daiki Tsukuda（以下、「当方」といいます）が提供するアプリ�
 アプリをアンインストールすると、端末内に保存されたデータは削除されます。
 
 ## 広告配信について
-iOS版の本アプリでは、広告配信のためにGoogle AdMobを利用しています。
+本アプリでは、広告配信のためにGoogle AdMobを利用しています。
 Google AdMobによる情報の取り扱いについては、以下のGoogleのポリシーをご確認ください。
 
 https://policies.google.com/technologies/ads
