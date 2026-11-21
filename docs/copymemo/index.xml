@@ -6,17 +6,26 @@
     <description>Recent content in Copymemoes on donchan922.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Feb 2024 14:29:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:03:48 +0900</lastBuildDate>
     <atom:link href="https://donchan922.com/copymemo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>プライバシーポリシー</title>
       <link>https://donchan922.com/copymemo/privacypolicy/</link>
       <pubDate>Sun, 11 Feb 2024 09:21:33 +0900</pubDate>
       <guid>https://donchan922.com/copymemo/privacypolicy/</guid>
-      <description>Daiki Tsukuda（以下、「当方」といいます）が提供するアプリ「コピーメモ」（以下、「本アプリ」といいます）のプライバシーポリシーを以下に定めます。
-広告配信について 本アプリでは、広告配信のために、Googleの提供するGoogle AdMobを利用し、利用者の情報を取得する場合があります。詳細については、以下のリンクからご確認ください。
-広告 – ポリシーと規約 – Google
-免責事項 利用者が本アプリを利用して生じた損害について、当方は責任を一切負わないものとします。</description>
+      <description>Daiki Tsukuda（以下「当方」）が提供するアプリ「コピーメモ」（以下「本アプリ」）における情報の取り扱いを説明します。
+メモの保存とiCloud同期 本アプリは、利用者が作成したメモのタイトル・本文やフォルダを端末に保存します。iCloudが有効な場合は、AppleのiCloud（CloudKit）を使い、同じApple Accountでサインインしている端末間で同期します。
+利用者がコピーを操作したときは、選んだメモの本文を端末のクリップボードに書き込みます。本アプリは、メモやフォルダの内容を広告配信やサブスクリプション管理のためにGoogleまたはRevenueCatへ送信しません。
+Appleのプライバシーポリシー
+広告配信 本アプリは広告配信にGoogle AdMobを利用します。Googleは、広告の配信・効果測定やサービス改善のため、IPアドレス、端末識別子、広告の表示・操作に関する情報、動作や障害に関する情報を取得する場合があります。
+本アプリは、広告に関するトラッキングの許可を求める場合があります。許可はiPhoneの「設定 → プライバシーとセキュリティ → トラッキング」から変更できます。許可しない場合も、広告が表示されることがあります。
+Googleの広告に関するポリシー
+アプリ内課金 本アプリは、サブスクリプション管理にRevenueCat, Inc.が提供するRevenueCatを利用します。購入の確認・復元、プレミアム機能の利用可否の判定、不正利用の防止、購入状況や売上の分析のため、以下の情報がRevenueCatに送信されます。
+RevenueCatが自動生成する匿名の利用者ID 購入した商品、購入日時、取引ID、購読の状態などの購入情報 OS、端末の種類、アプリのバージョンなどの技術情報と、課金画面の表示に関する情報 決済はAppleが処理します。当方およびRevenueCatが、本アプリを通じてクレジットカード番号などの支払い情報を取得することはありません。
+RevenueCatのプライバシーポリシー
+データの削除とお問い合わせ メモやフォルダは本アプリ内で削除できます。iCloud同期が有効な場合、アプリ内での削除は同期先の端末にも反映されます。アプリを端末から削除しても、iCloud上の同期データやApple・RevenueCatで管理される購入履歴が自動的に削除されるわけではありません。
+当方が管理する情報の開示・訂正・削除や、本ポリシーに関するお問い合わせは、以下のフォームからご連絡ください。フォームで送信された情報は、お問い合わせへの回答や対応に利用します。
+お問い合わせフォーム</description>
     </item>
     <item>
       <title>利用規約</title>
