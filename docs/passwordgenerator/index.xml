@@ -6,7 +6,7 @@
     <description>Recent content in Passwordgenerators on donchan922.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Feb 2024 13:30:15 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:24:35 +0900</lastBuildDate>
     <atom:link href="https://donchan922.com/passwordgenerator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>利用規約</title>
@@ -26,10 +26,16 @@
       <link>https://donchan922.com/passwordgenerator/privacypolicy/</link>
       <pubDate>Wed, 08 Feb 2023 21:26:41 +0900</pubDate>
       <guid>https://donchan922.com/passwordgenerator/privacypolicy/</guid>
-      <description>Daiki Tsukuda（以下、「当方」といいます）が提供するアプリ「かんたんパスワード生成」（以下、「本アプリ」といいます）のプライバシーポリシーを以下に定めます。
-広告配信について 本アプリでは、広告配信のために、Googleの提供するGoogle AdMobを利用し、利用者の情報を取得する場合があります。詳細については、以下のリンクからご確認ください。
-広告 – ポリシーと規約 – Google
-免責事項 利用者が本アプリを利用して生じた損害について、当方は責任を一切負わないものとします。</description>
+      <description>このポリシーは、Daiki Tsukuda が提供する「かんたんパスワード生成」に適用されます。
+パスワードと設定 パスワードは端末上で生成し、アプリから外部に送信しません。生成したパスワードは、アプリのメモリに一時的に保持します。コピーすると、パスワードは端末のクリップボードに入ります。
+文字数や文字の種類などの設定は端末に保存します。
+広告 広告の配信と効果測定、不正防止のために Google AdMob を利用します。Google は広告識別子、IP アドレスとそこから推定されるおおよその地域、アプリや広告の操作情報、診断情報などを取り扱う場合があります。
+広告識別子の利用は、端末のプライバシー設定で管理できます。
+Google の広告に関するポリシー
+アプリ内購入 広告削除の決済は、アプリを入手したストアが処理します。購入の確認と復元には RevenueCat を利用します。RevenueCat は自動で発行するアプリユーザー ID と購入情報を取り扱います。
+お問い合わせとデータの削除 フォームに入力された情報は、お問い合わせへの回答と対応に利用します。フォームの回答には一律の保存期間を設けていません。
+プライバシーに関するお問い合わせやデータの削除依頼は、以下のフォームで受け付けます。依頼内容を確認し、適用される法令に従って対応します。
+お問い合わせフォーム</description>
     </item>
   </channel>
 </rss>
